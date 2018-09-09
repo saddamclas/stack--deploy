@@ -1,0 +1,2 @@
+docker stack deploy --compose-file docker-stack.yml website
+docker stack services website
